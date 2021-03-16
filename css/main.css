@@ -1,0 +1,97 @@
+body {
+    background-color: whitesmoke;
+}
+
+table {
+    text-align: center;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-header {
+    font-weight: bold;
+    color: #6531b9;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #d9c9f3;
+}
+
+.center-align {
+    text-align: center;
+    font-family: 'Londrina Outline', cursive;
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    text-shadow: -1.5px 1.5px 0 lightblue,
+				  1.5px 1.5px 0 lightblue,
+				  1.5px -1.5px 0 lightblue,
+				 -1.5px -1.5px 0 lightblue;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+main, body, footer, option {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+header {
+    width: 100vw;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.small-header {
+    text-align: center;
+    color: blue;
+}
+
+.sort-form {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.sort-menus {
+    border: none;
+}
+
+.displays {
+    padding-bottom: 1em;
+}
+
+button {
+    background-color: lightpink;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-weight: bold;
+}
+
+.table_header {
+    font-size: 1.25em;
+    padding: 1em;
+}
+
+td {
+    padding-right: 1em;
+    padding-left: 1em;
+    border: 1px solid black;  
+}
+
+.sort-menus {
+    border: none;
+}
+
+.display-vehicles {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.label {
+    font-weight: bold;
+}
